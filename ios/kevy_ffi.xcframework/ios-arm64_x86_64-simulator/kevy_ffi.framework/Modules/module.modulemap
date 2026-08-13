@@ -1,0 +1,4 @@
+framework module kevy_ffi {
+    header "kevy.h"
+    export *
+}
